@@ -47,17 +47,17 @@ async def account(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/kashmir_1'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/kashir_bots"),
                         
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("🔗subscribe", url="https://www.youtube.com/channel/UCsNkiEm2go3Zyzum7e3PpBg"),
+						InlineKeyboardButton("🧩TELEGRAM", url="https://t.me/south_kashmir")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/kashir_bots")
 
                     ]
 					
@@ -129,17 +129,17 @@ async def _insta_post_batch(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/kashmir_1'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/kashir_bots"),
                         
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("🔗subscribe", url="https://www.youtube.com/channel/UCsNkiEm2go3Zyzum7e3PpBg"),
+						InlineKeyboardButton("🧩TElegram", url="https://t.me/south_kashmir")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/kashir_bots")
 
                     ]
 					
